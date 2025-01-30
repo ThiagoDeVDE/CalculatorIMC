@@ -5,9 +5,7 @@ BMI Calculator was an app I developed to take my first steps with Android develo
 
 
 ## :camera_flash: Screenshots
-![image](https://github.com/ThiagoDeVDE/CalculatorIMC/blob/55f9f90d83390f6c6d8d1768e3675efa834da918/Screenshot_20240624_210346.png)
-![image](https://github.com/ThiagoDeVDE/CalculatorIMC/blob/55f9f90d83390f6c6d8d1768e3675efa834da918/Screenshot_20240624_210430.png)
-![image](https://github.com/ThiagoDeVDE/CalculatorIMC/blob/55f9f90d83390f6c6d8d1768e3675efa834da918/Screenshot_20240624_210908.png)
+<img src="https://github.com/ThiagoDeVDE/CalculatorIMC/blob/55f9f90d83390f6c6d8d1768e3675efa834da918/Screenshot_20240624_210346.png" width=230><img src="https://github.com/ThiagoDeVDE/CalculatorIMC/blob/55f9f90d83390f6c6d8d1768e3675efa834da918/Screenshot_20240624_210430.png" width=230><img src="https://github.com/ThiagoDeVDE/CalculatorIMC/blob/55f9f90d83390f6c6d8d1768e3675efa834da918/Screenshot_20240624_210908.png" width=230>
 
 
 ## Tecnologias
